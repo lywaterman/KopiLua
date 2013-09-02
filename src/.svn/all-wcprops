@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/card/!svn/ver/345/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src
+END
+linit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/linit.cs
+END
+lua.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/card/!svn/ver/345/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lua.cs
+END
+LuaState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/LuaState.cs
+END
+loslib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/loslib.cs
+END
+lundump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lundump.cs
+END
+lapi.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lapi.cs
+END
+luaconf.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/345/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/luaconf.cs
+END
+ldblib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/ldblib.cs
+END
+lmem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lmem.cs
+END
+lstate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lstate.cs
+END
+lmathlib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lmathlib.cs
+END
+ltm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/ltm.cs
+END
+lvm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lvm.cs
+END
+lnet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lnet.cs
+END
+CharPtr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/CharPtr.cs
+END
+llex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/llex.cs
+END
+loadlib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/loadlib.cs
+END
+lopcodes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lopcodes.cs
+END
+lparser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lparser.cs
+END
+ltablib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/ltablib.cs
+END
+lstrlib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lstrlib.cs
+END
+LuaTag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/LuaTag.cs
+END
+ldump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/ldump.cs
+END
+lobject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lobject.cs
+END
+lstring.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lstring.cs
+END
+lcode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lcode.cs
+END
+LuaDebug.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/LuaDebug.cs
+END
+print.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/print.cs
+END
+lauxlib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lauxlib.cs
+END
+ldebug.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/ldebug.cs
+END
+ltable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/ltable.cs
+END
+lgc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lgc.cs
+END
+lfunc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lfunc.cs
+END
+lualib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lualib.cs
+END
+liolib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/liolib.cs
+END
+llimits.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/llimits.cs
+END
+lbaselib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lbaselib.cs
+END
+lzio.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/lzio.cs
+END
+ldo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/card/!svn/ver/328/trunk/tools/KopiLua-master/KopiLua-master/KopiLua/src/ldo.cs
+END
